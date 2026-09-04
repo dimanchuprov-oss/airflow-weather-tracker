@@ -1,0 +1,5 @@
+logs/
+.venv/
+.env
+postgres-db-volume/
+__pycache__/
